@@ -1,6 +1,6 @@
 {
   "name": "api-backoffice",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "Api for get data for backoffice",
   "main": "index.js",
   "type": "module",
